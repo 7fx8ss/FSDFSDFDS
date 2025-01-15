@@ -1,2 +1,2 @@
 Key "7fx8Test" Valid till 1/15/2025 12:00AM EST
-Key "AnotherKey" Valid till 12/31/2024 1:00PM EST
+Key "AnotherKey" Valid till 1/15/2025 1:00PM EST
